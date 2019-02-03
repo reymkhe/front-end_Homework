@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+    font-family: 'Lato', sans-serif;
+    background: #f7f9fc;
+}
+
+.blog-post {
+    max-width: 1440px;
+    width: 100%;
+    box-sizing: border-box;
+}
